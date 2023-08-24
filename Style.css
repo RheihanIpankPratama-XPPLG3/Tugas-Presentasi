@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
